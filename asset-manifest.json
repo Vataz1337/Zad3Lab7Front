@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Zad3Lab7Front/static/css/main.430dc91c.css",
+    "main.js": "/Zad3Lab7Front/static/js/main.41103a1f.js",
+    "static/js/787.09bf7d05.chunk.js": "/Zad3Lab7Front/static/js/787.09bf7d05.chunk.js",
+    "index.html": "/Zad3Lab7Front/index.html",
+    "main.430dc91c.css.map": "/Zad3Lab7Front/static/css/main.430dc91c.css.map",
+    "main.41103a1f.js.map": "/Zad3Lab7Front/static/js/main.41103a1f.js.map",
+    "787.09bf7d05.chunk.js.map": "/Zad3Lab7Front/static/js/787.09bf7d05.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.430dc91c.css",
+    "static/js/main.41103a1f.js"
+  ]
+}
