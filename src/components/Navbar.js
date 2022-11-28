@@ -3,12 +3,14 @@ import React from "react";
 export default function Navbar() {
     return (
         <>
-            <p>Navitagion bar</p>
-            <ul>
-                <li>Home</li>
-                <li>About</li>
-                <li>Contact</li>
-            </ul>
+            <header>
+                <p>Navitagion bar</p>
+                <ul>
+                    <li><a href={"chata"}>Home</a></li>
+                    <li><a href={"chata"}>Contact</a></li>
+                    <li><a href={"chata"}>About</a></li>
+                </ul>
+            </header>
         </>
 
     );

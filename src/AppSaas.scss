@@ -1,0 +1,52 @@
+$bgcolor: lightblue;
+$textcolor: darkblue;
+$fontsize: 22px;
+$footerHeaderFontSize: 30px;
+$footerHeaderFont: "Book Antiqua";
+$footerHeaderFontColor: Black;
+
+body {
+  background-color: $bgcolor;
+  color: $textcolor;
+  font-size: $fontsize;
+}
+#root{
+  img{
+    height: 500px;
+    width: 500px;
+  }
+  section {
+    outline: 0.5rem solid Green;
+    font: bold 1rem sans-serif;
+    margin: 2rem;
+    padding: 1rem;
+  }
+  header, footer{
+    font: $footerHeaderFont;
+    font-size: $footerHeaderFontSize;
+    color: $footerHeaderFontColor;
+  }
+  header{
+    ul{
+      list-style-type: none;
+      margin: 0;
+      padding: 0;
+      overflow: hidden;
+      background-color: $textcolor;
+    }
+    li{
+      float: left;
+    }
+    li a {
+      display: block;
+      color: white;
+      text-align: center;
+      padding: 14px 16px;
+      text-decoration: none;
+    }
+
+    li a:hover {
+      background-color: #111;
+    }
+  }
+}

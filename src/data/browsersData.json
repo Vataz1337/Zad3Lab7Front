@@ -1,0 +1,23 @@
+[
+  {
+    "name": "Mozilla FireFox",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/Mozilla_Firefox_logo_2013.svg/800px-Mozilla_Firefox_logo_2013.svg.png",
+    "description": [
+      "Firefox, pełna nazwa Mozilla Firefox – wieloplatformowa przeglądarka internetowa o otwartym kodzie źródłowym oparta na silniku Gecko, stworzona i rozwijana przez Mozilla Foundation, Mozilla Corporation oraz wolontariuszy."
+    ]
+  },
+  {
+    "name": "Google Chrome",
+    "image": "https://lh3.googleusercontent.com/jUoaTIlBn5ibfQcND2n5OMD6Z7xoqNj-ShHlFR6QuLffLXD5pS8V2eNg1rGlrsRrnDkoQ28O8UHzqzBQKAGY4l1CS2NQSq2SkRScK6FOjl82jppyohK-",
+    "description": [
+      "Google Chrome, wymowa: – darmowa przeglądarka internetowa rozwijana przez Google. Jej kod został napisany w oparciu o rozwiązania open source częściowo oparte na innych aplikacjach, z wyjątkiem wersji na iOS. Od wydania wersji 28 przeglądarka wykorzystuje silnik Blink."
+    ]
+  },
+  {
+    "name": "Microsoft Edge",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/Microsoft_Edge_logo_%282019%29.svg/480px-Microsoft_Edge_logo_%282019%29.svg.png",
+    "description": [
+      "Microsoft Edge – przeglądarka internetowa firmy Microsoft. Oficjalnie zaprezentowana 21 stycznia 2015 roku, a pierwszy raz wydana w wersji testowej 30 marca 2015 roku. Dostępna dla systemu Windows 10, którego premiera odbyła się 29 lipca 2015 roku."
+    ]
+  }
+]

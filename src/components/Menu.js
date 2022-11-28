@@ -8,6 +8,7 @@ function Menu({browsers}) {
     return (
         <>
             <Navbar/>
+            <h1>Popular web browsers</h1>
             <article>
                 <div className="browsers">
                     {browsers.map((browser, i) => (
